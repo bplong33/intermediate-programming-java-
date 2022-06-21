@@ -1,0 +1,1 @@
+<EBook><id>1</id><title>Testing</title><yearPublished>2021</yearPublished><chapters>500</chapters><rented>false</rented></Ebook>
